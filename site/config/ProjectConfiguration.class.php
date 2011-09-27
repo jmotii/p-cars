@@ -11,4 +11,3 @@ class ProjectConfiguration extends sfProjectConfiguration
     $this->enablePlugins('sfDoctrinePlugin');
   }
 }
-?>
